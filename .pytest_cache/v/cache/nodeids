@@ -1,0 +1,4 @@
+[
+  "Test/test_account.py::test_account_data",
+  "Test/test_report.py::test_read_reports"
+]
