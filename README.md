@@ -3,7 +3,7 @@
 ---
 
 ## **Overview**
-This project focuses on analyzing user activity data to derive actionable insights. The implementation includes extraction of files from account and reports folder, merging the files and performing analysis on the combined data
+This project focuses on analyzing user activity data to derive actionable insights. The implementation includes extraction of files from account and reports folder, merging the files and performing analysis on the combined data.
 
 ---
 
